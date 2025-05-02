@@ -70,11 +70,6 @@ This project was conceived on **19 May 2024**, during a community service initia
 
 ---
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
 
 ## 🙌 Acknowledgments
 
