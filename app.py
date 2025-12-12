@@ -3,7 +3,7 @@ import google.generativeai as genai
 import os
 
 # Set Google API Key
-GOOGLE_API_KEY = "AIzaSyBChtpfxdTTuHGV_UY1-i6EpBhC03-1K1M"  # Replace with your actual Google API key
+GOOGLE_API_KEY = "sgdf"  # Replace with your actual Google API key
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Streamlit App Config
@@ -56,3 +56,4 @@ if st.button("♻️ Get Disposal Advice"):
 # Footer
 st.markdown("---")
 st.caption("Powered by Google Gemini • For educational and environmental awareness purposes only.")
+
